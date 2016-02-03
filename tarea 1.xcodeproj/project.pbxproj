@@ -6,16 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		4F02B0521C62BE0B0031296A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F02B0511C62BE0B0031296A /* AppDelegate.swift */; };
-		4F02B0541C62BE0B0031296A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F02B0531C62BE0B0031296A /* ViewController.swift */; };
-		4F02B0571C62BE0B0031296A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F02B0551C62BE0B0031296A /* Main.storyboard */; };
-		4F02B0591C62BE0C0031296A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F02B0581C62BE0C0031296A /* Assets.xcassets */; };
-		4F02B05C1C62BE0C0031296A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F02B05A1C62BE0C0031296A /* LaunchScreen.storyboard */; };
-		4F02B0671C62BE0C0031296A /* tarea_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F02B0661C62BE0C0031296A /* tarea_1Tests.swift */; };
-		4F02B0721C62BE0C0031296A /* tarea_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F02B0711C62BE0C0031296A /* tarea_1UITests.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		4F02B0631C62BE0C0031296A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -34,19 +24,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4F02B04E1C62BE0B0031296A /* tarea 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tarea 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4F02B0511C62BE0B0031296A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4F02B0531C62BE0B0031296A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		4F02B0561C62BE0B0031296A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4F02B0581C62BE0C0031296A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4F02B05B1C62BE0C0031296A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4F02B05D1C62BE0C0031296A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4F02B0621C62BE0C0031296A /* tarea 1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tarea 1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4F02B0661C62BE0C0031296A /* tarea_1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tarea_1Tests.swift; sourceTree = "<group>"; };
-		4F02B0681C62BE0C0031296A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4F02B06D1C62BE0C0031296A /* tarea 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tarea 1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4F02B0711C62BE0C0031296A /* tarea_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tarea_1UITests.swift; sourceTree = "<group>"; };
-		4F02B0731C62BE0C0031296A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F02B04E1C62BE0B0031296A /* tarea 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "tarea 1.app"; path = "/Users/eliermedinaaviles/Coursera/Swift/tarea 1/build/Debug-iphoneos/tarea 1.app"; sourceTree = "<absolute>"; };
+		4F02B0621C62BE0C0031296A /* tarea 1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "tarea 1Tests.xctest"; path = "/Users/eliermedinaaviles/Coursera/Swift/tarea 1/build/Debug-iphoneos/tarea 1Tests.xctest"; sourceTree = "<absolute>"; };
+		4F02B06D1C62BE0C0031296A /* tarea 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "tarea 1UITests.xctest"; path = "/Users/eliermedinaaviles/Coursera/Swift/tarea 1/build/Debug-iphoneos/tarea 1UITests.xctest"; sourceTree = "<absolute>"; };
+		4F02B0F31C62C4470031296A /* Tarea1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Tarea1.playground; path = ../Tarea1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,52 +58,8 @@
 		4F02B0451C62BE0A0031296A = {
 			isa = PBXGroup;
 			children = (
-				4F02B0501C62BE0B0031296A /* tarea 1 */,
-				4F02B0651C62BE0C0031296A /* tarea 1Tests */,
-				4F02B0701C62BE0C0031296A /* tarea 1UITests */,
-				4F02B04F1C62BE0B0031296A /* Products */,
+				4F02B0F31C62C4470031296A /* Tarea1.playground */,
 			);
-			sourceTree = "<group>";
-		};
-		4F02B04F1C62BE0B0031296A /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				4F02B04E1C62BE0B0031296A /* tarea 1.app */,
-				4F02B0621C62BE0C0031296A /* tarea 1Tests.xctest */,
-				4F02B06D1C62BE0C0031296A /* tarea 1UITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		4F02B0501C62BE0B0031296A /* tarea 1 */ = {
-			isa = PBXGroup;
-			children = (
-				4F02B0511C62BE0B0031296A /* AppDelegate.swift */,
-				4F02B0531C62BE0B0031296A /* ViewController.swift */,
-				4F02B0551C62BE0B0031296A /* Main.storyboard */,
-				4F02B0581C62BE0C0031296A /* Assets.xcassets */,
-				4F02B05A1C62BE0C0031296A /* LaunchScreen.storyboard */,
-				4F02B05D1C62BE0C0031296A /* Info.plist */,
-			);
-			path = "tarea 1";
-			sourceTree = "<group>";
-		};
-		4F02B0651C62BE0C0031296A /* tarea 1Tests */ = {
-			isa = PBXGroup;
-			children = (
-				4F02B0661C62BE0C0031296A /* tarea_1Tests.swift */,
-				4F02B0681C62BE0C0031296A /* Info.plist */,
-			);
-			path = "tarea 1Tests";
-			sourceTree = "<group>";
-		};
-		4F02B0701C62BE0C0031296A /* tarea 1UITests */ = {
-			isa = PBXGroup;
-			children = (
-				4F02B0711C62BE0C0031296A /* tarea_1UITests.swift */,
-				4F02B0731C62BE0C0031296A /* Info.plist */,
-			);
-			path = "tarea 1UITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,7 +150,7 @@
 				Base,
 			);
 			mainGroup = 4F02B0451C62BE0A0031296A;
-			productRefGroup = 4F02B04F1C62BE0B0031296A /* Products */;
+			productRefGroup = 4F02B0451C62BE0A0031296A;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -229,9 +166,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F02B05C1C62BE0C0031296A /* LaunchScreen.storyboard in Resources */,
-				4F02B0591C62BE0C0031296A /* Assets.xcassets in Resources */,
-				4F02B0571C62BE0B0031296A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +190,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F02B0541C62BE0B0031296A /* ViewController.swift in Sources */,
-				4F02B0521C62BE0B0031296A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +197,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F02B0671C62BE0C0031296A /* tarea_1Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +204,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F02B0721C62BE0C0031296A /* tarea_1UITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,25 +221,6 @@
 			targetProxy = 4F02B06E1C62BE0C0031296A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		4F02B0551C62BE0B0031296A /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				4F02B0561C62BE0B0031296A /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		4F02B05A1C62BE0C0031296A /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				4F02B05B1C62BE0C0031296A /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		4F02B0741C62BE0C0031296A /* Debug */ = {
@@ -482,6 +393,7 @@
 				4F02B0781C62BE0C0031296A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F02B0791C62BE0C0031296A /* Build configuration list for PBXNativeTarget "tarea 1Tests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +402,7 @@
 				4F02B07B1C62BE0C0031296A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F02B07C1C62BE0C0031296A /* Build configuration list for PBXNativeTarget "tarea 1UITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +411,7 @@
 				4F02B07E1C62BE0C0031296A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
